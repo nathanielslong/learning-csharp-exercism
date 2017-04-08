@@ -1,10 +1,11 @@
 using System;
+using System.Text.RegularExpressions;
 
 public static class Bob
 {
   public static string Hey(string statement)
   {
-    if(IsAllUpper(statement))
+    if(IsAllUpper(statement) && Regex.IsMatch(statement, @"^(?=.*[a-zA-Z]).+$"))
     {
       return "Whoa, chill out!";
     }
