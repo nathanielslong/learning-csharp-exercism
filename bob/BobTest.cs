@@ -62,51 +62,51 @@ public class BobTest
         Assert.Equal("Whatever.", Bob.Hey("1, 2, 3"));
     }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Question_with_only_numbers () */
-    /* { */
-    /*     Assert.Equal("Sure.", Bob.Hey("4?")); */
-    /* } */
+    [Fact]
+    public void Question_with_only_numbers ()
+    {
+        Assert.Equal("Sure.", Bob.Hey("4?"));
+    }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Shouting_with_special_characters () */
-    /* { */
-    /*     Assert.Equal("Whoa, chill out!", Bob.Hey("ZOMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!")); */
-    /* } */
+    [Fact]
+    public void Shouting_with_special_characters ()
+    {
+        Assert.Equal("Whoa, chill out!", Bob.Hey("ZOMG THE %^*@#$(*^ ZOMBIES ARE COMING!!11!!1!"));
+    }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Shouting_with_no_exclamation_mark () */
-    /* { */
-    /*     Assert.Equal("Whoa, chill out!", Bob.Hey("I HATE YOU")); */
-    /* } */
+    [Fact]
+    public void Shouting_with_no_exclamation_mark ()
+    {
+        Assert.Equal("Whoa, chill out!", Bob.Hey("I HATE YOU"));
+    }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Statement_containing_question_mark () */
-    /* { */
-    /*     Assert.Equal("Whatever.", Bob.Hey("Ending with ? means a question.")); */
-    /* } */
+    [Fact]
+    public void Statement_containing_question_mark ()
+    {
+        Assert.Equal("Whatever.", Bob.Hey("Ending with ? means a question."));
+    }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Prattling_on () */
-    /* { */
-    /*     Assert.Equal("Sure.", Bob.Hey("Wait! Hang on. Are you going to be OK?")); */
-    /* } */
+    [Fact]
+    public void Prattling_on ()
+    {
+        Assert.Equal("Sure.", Bob.Hey("Wait! Hang on. Are you going to be OK?"));
+    }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Silence () */
-    /* { */
-    /*     Assert.Equal("Fine. Be that way!", Bob.Hey("")); */
-    /* } */
+    [Fact]
+    public void Silence ()
+    {
+        Assert.Equal("Fine. Be that way!", Bob.Hey(""));
+    }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Prolonged_silence () */
-    /* { */
-    /*     Assert.Equal("Fine. Be that way!", Bob.Hey("    ")); */
-    /* } */
+    [Fact]
+    public void Prolonged_silence ()
+    {
+        Assert.Equal("Fine. Be that way!", Bob.Hey("    "));
+    }
 
-    /* [Fact(Skip = "Remove to run test")] */
-    /* public void Multiple_line_question () */
-    /* { */
-    /*     Assert.Equal("Whatever.", Bob.Hey("Does this cryogenic chamber make me look fat?\nno")); */
-    /* } */
+    [Fact]
+    public void Multiple_line_question ()
+    {
+        Assert.Equal("Whatever.", Bob.Hey("Does this cryogenic chamber make me look fat?\nno"));
+    }
 }
