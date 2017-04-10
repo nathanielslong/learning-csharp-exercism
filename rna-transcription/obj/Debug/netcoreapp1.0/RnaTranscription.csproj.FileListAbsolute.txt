@@ -1,0 +1,11 @@
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/RnaTranscription.deps.json
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/RnaTranscription.runtimeconfig.json
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/RnaTranscription.runtimeconfig.dev.json
+/Users/nathaniellong/exercism/csharp/rna-transcription/obj/Debug/netcoreapp1.0/RnaTranscription.AssemblyInfo.cs
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/RnaTranscription.dll
+/Users/nathaniellong/exercism/csharp/rna-transcription/bin/Debug/netcoreapp1.0/RnaTranscription.pdb
+/Users/nathaniellong/exercism/csharp/rna-transcription/obj/Debug/netcoreapp1.0/RnaTranscription.dll
+/Users/nathaniellong/exercism/csharp/rna-transcription/obj/Debug/netcoreapp1.0/RnaTranscription.pdb
