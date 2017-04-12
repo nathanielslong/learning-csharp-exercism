@@ -1,0 +1,11 @@
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/SpaceAge.deps.json
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/SpaceAge.runtimeconfig.json
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/SpaceAge.runtimeconfig.dev.json
+/Users/nathaniellong/exercism/csharp/space-age/obj/Debug/netcoreapp1.0/SpaceAge.AssemblyInfo.cs
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/SpaceAge.dll
+/Users/nathaniellong/exercism/csharp/space-age/bin/Debug/netcoreapp1.0/SpaceAge.pdb
+/Users/nathaniellong/exercism/csharp/space-age/obj/Debug/netcoreapp1.0/SpaceAge.dll
+/Users/nathaniellong/exercism/csharp/space-age/obj/Debug/netcoreapp1.0/SpaceAge.pdb
