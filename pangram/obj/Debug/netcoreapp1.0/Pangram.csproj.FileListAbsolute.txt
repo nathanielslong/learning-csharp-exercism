@@ -1,0 +1,11 @@
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/Pangram.deps.json
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/Pangram.runtimeconfig.json
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/Pangram.runtimeconfig.dev.json
+/Users/nathaniellong/exercism/csharp/pangram/obj/Debug/netcoreapp1.0/Pangram.AssemblyInfo.cs
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/Pangram.dll
+/Users/nathaniellong/exercism/csharp/pangram/bin/Debug/netcoreapp1.0/Pangram.pdb
+/Users/nathaniellong/exercism/csharp/pangram/obj/Debug/netcoreapp1.0/Pangram.dll
+/Users/nathaniellong/exercism/csharp/pangram/obj/Debug/netcoreapp1.0/Pangram.pdb
