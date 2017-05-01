@@ -57,29 +57,29 @@ public class BankAccountTest
         Assert.Throws<InvalidOperationException>(() => account.Balance);
     }
 
-    /* [Fact] */
-    /* public void Change_account_balance_from_multiple_threads() */
-    /* { */
-        /* var account = new BankAccount(); */
-        /* var tasks = new List<Task>(); */
+    [Fact]
+    public void Change_account_balance_from_multiple_threads()
+    {
+        var account = new BankAccount();
+        var tasks = new List<Task>();
 
-        /* var threads = 500; */
-        /* var iterations = 100; */
+        var threads = 500;
+        var iterations = 100;
 
-        /* account.Open(); */
-        /* for (int i = 0; i < threads; i++) */
-        /* { */
-        /*     tasks.Add(Task.Factory.StartNew(() => */
-        /*     { */
-        /*         for (int j = 0; j < iterations; j++) */
-        /*         { */
-        /*             account.UpdateBalance(1); */
-        /*             account.UpdateBalance(-1); */
-        /*         } */
-        /*     })); */
-        /* } */
-        /* Task.WaitAll(tasks.ToArray()); */
+        account.Open();
+        for (int i = 0; i < threads; i++)
+        {
+            tasks.Add(Task.Factory.StartNew(() =>
+            {
+                for (int j = 0; j < iterations; j++)
+                {
+                    account.UpdateBalance(1);
+                    account.UpdateBalance(-1);
+                }
+            }));
+        }
+        Task.WaitAll(tasks.ToArray());
 
-        /* Assert.Equal(0, account.Balance); */
-    /* } */
+        Assert.Equal(0, account.Balance);
+    }
 }

@@ -2,26 +2,37 @@
 
 public class BankAccount
 {
-  private bool closed = true;
+  private bool _closed = true;
+  private float _balance = 0;
 
   public void Open()
   {
-    closed = false;
+    this._closed = false;
   }
 
   public void Close()
   {
-    closed = true;
+    this._closed = true;
   }
 
   public float Balance
   {
-    get;
-    set;
+    get
+    {
+      if (this._closed)
+      {
+        throw new InvalidOperationException();
+      }
+      return _balance;
+    }
   }
 
   public void UpdateBalance(float change)
   {
-    Balance += change;
+    if (this._closed)
+    {
+      throw new InvalidOperationException();
+    }
+    _balance += change;
   }
 }
