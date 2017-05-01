@@ -1,0 +1,11 @@
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/BankAccount.deps.json
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/BankAccount.runtimeconfig.json
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/BankAccount.runtimeconfig.dev.json
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/BankAccount.dll
+/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/BankAccount.pdb
+/Users/nathaniellong/exercism/csharp/bank-account/obj/Debug/netcoreapp1.0/BankAccount.AssemblyInfo.cs
+/Users/nathaniellong/exercism/csharp/bank-account/obj/Debug/netcoreapp1.0/BankAccount.dll
+/Users/nathaniellong/exercism/csharp/bank-account/obj/Debug/netcoreapp1.0/BankAccount.pdb

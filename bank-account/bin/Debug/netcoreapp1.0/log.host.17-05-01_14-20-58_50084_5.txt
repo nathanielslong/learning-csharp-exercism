@@ -1,0 +1,34 @@
+TpTrace Information: 0 : 6756, 1, 2017/05/01, 14:20:58.827, 568605878103788, testhost.dll, DefaultEngineInvoker: Monitoring parent process with id: '6755'
+TpTrace Information: 0 : 6756, 1, 2017/05/01, 14:20:58.849, 568605895603865, testhost.dll, DefaultEngineInvoker: Initialize communication on port number: '59163'
+TpTrace Information: 0 : 6756, 1, 2017/05/01, 14:20:58.862, 568605908713876, testhost.dll, Trying to connect to server on port : 59163
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:20:58.893, 568605939843765, testhost.dll, Connected to the server successfully 
+TpTrace Information: 0 : 6756, 1, 2017/05/01, 14:20:59.151, 568606197813686, testhost.dll, DefaultEngineInvoker: Start Request Processing.
+TpTrace Information: 0 : 6756, 3, 2017/05/01, 14:20:59.224, 568606270778555, testhost.dll, Discovery Session Initialize.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.248, 568606295003358, testhost.dll, TestPluginCache: Updating loadOnlyWellKnownExtensions from False to False.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.249, 568606296056070, testhost.dll, TestPluginCache: Using directories for assembly resolution '/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0'.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.249, 568606296185408, testhost.dll, TestPluginCache: Updated the available extensions to '/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll'.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.250, 568606297343404, testhost.dll, TestExecutorService: Loading the extensions
+TpTrace Information: 0 : 6756, 3, 2017/05/01, 14:20:59.257, 568606303533368, testhost.dll, Execution started.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.260, 568606307042950, testhost.dll, TestPluginCache: Discovering the extensions using extension path.
+TpTrace Error: 0 : 6756, 6, 2017/05/01, 14:20:59.261, 568606307873068, testhost.dll, Default extensions folder does not exist
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.276, 568606322540612, testhost.dll, TestPluginCache: Discovered the extensions using extension path '/Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll'.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.277, 568606324129925, testhost.dll, TestPluginCache: Discoverers are 'Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner, xunit.runner.visualstudio.dotnetcore.testadapter, Version=2.2.0.1274, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c'.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.277, 568606324220808, testhost.dll, TestPluginCache: Executors are 'executor://xunit/VsTestRunner2'.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.277, 568606324290974, testhost.dll, TestPluginCache: Setting providers are ''.
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.277, 568606324336697, testhost.dll, TestPluginCache: Loggers are ''.
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:20:59.284, 568606331180220, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.284, 568606331380362, testhost.dll, TestDiscoveryManager: LoadExtensions: Created discoverer Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.284, 568606331427183, testhost.dll, TestExecutorService: Loaded the discoverers
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:20:59.292, 568606339355141, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.292, 568606339471103, testhost.dll, TestExecutorExtensionManager: Loading executor Xunit.Runner.VisualStudio.TestAdapter.VsTestRunner
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.293, 568606339522364, testhost.dll, TestExecutorService: Loaded the executors
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.296, 568606342666841, testhost.dll, TestExecutorService: Loaded the settings providers
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:20:59.296, 568606342759063, testhost.dll, TestExecutorService: Loaded the extensions
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:20:59.370, 568606417115707, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Common.resources: Resolving assembly.
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:20:59.371, 568606418000722, testhost.dll, AssemblyResolver: Microsoft.VisualStudio.TestPlatform.Common.resources: Resolving assembly.
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:20:59.390, 568606437110282, testhost.dll, TestDiscoveryManager: Discovering tests from sources /Users/nathaniellong/exercism/csharp/bank-account/bin/Debug/netcoreapp1.0/BankAccount.dll
+TpTrace Verbose: 0 : 6756, 6, 2017/05/01, 14:20:59.398, 568606444746567, testhost.dll, BaseRunTests.RunTestInternalWithExecutors: Running tests for executor://xunit/VsTestRunner2
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:21:00.461, 568607507945573, testhost.dll, [xUnit.net 00:00:01.0592329]   Discovering: BankAccount
+TpTrace Information: 0 : 6756, 10, 2017/05/01, 14:21:00.497, 568607543951750, testhost.dll, AssemblyResolver: System.Core: Resolving assembly.
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:21:00.590, 568607636520604, testhost.dll, [xUnit.net 00:00:01.1895752]   Discovered:  BankAccount
+TpTrace Information: 0 : 6756, 6, 2017/05/01, 14:21:00.650, 568607696848506, testhost.dll, [xUnit.net 00:00:01.2499237]   Starting:    BankAccount
