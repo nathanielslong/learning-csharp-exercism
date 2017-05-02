@@ -1,0 +1,11 @@
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/Etl.deps.json
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/Etl.runtimeconfig.json
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/Etl.runtimeconfig.dev.json
+/Users/nathaniellong/exercism/csharp/etl/obj/Debug/netcoreapp1.0/Etl.AssemblyInfo.cs
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/Etl.dll
+/Users/nathaniellong/exercism/csharp/etl/bin/Debug/netcoreapp1.0/Etl.pdb
+/Users/nathaniellong/exercism/csharp/etl/obj/Debug/netcoreapp1.0/Etl.dll
+/Users/nathaniellong/exercism/csharp/etl/obj/Debug/netcoreapp1.0/Etl.pdb
